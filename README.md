@@ -1,2 +1,2 @@
 # latihan-branch
-kita coba coba
+kita coba coba, kita akan melakukan perubahan
